@@ -1,0 +1,33 @@
+/* CSS */
+
+select {
+  color: blue;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+body {
+  
+   background-color: lightgreen;
+  
+}
+
+label {
+
+   color: black;
+   text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
